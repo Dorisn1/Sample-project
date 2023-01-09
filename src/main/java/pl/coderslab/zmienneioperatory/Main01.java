@@ -7,6 +7,5 @@ public class Main01 {
         long long3;
         double double4;
         boolean boolean5;
-        System.out.println("Hello World");
     }
 }
