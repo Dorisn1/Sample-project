@@ -7,3 +7,4 @@ public class Main05 {
     }
 
 }
+/** literówka w słowie println" */

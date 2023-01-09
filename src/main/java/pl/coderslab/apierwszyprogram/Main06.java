@@ -7,6 +7,4 @@ public class Main06 {
 
     }
 }
-/**
- * było brak średnika (;) za "Hello world"
- */
+/** brak średnika (;)*/
