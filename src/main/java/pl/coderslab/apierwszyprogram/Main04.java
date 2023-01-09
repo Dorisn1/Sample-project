@@ -1,3 +1,5 @@
+package pl.coderslab.apierwszyprogram;
+
 public class Main04 {
     public static void main (String [] args) {
         System.out.println("    J      a   v       v   a");

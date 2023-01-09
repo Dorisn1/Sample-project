@@ -1,3 +1,5 @@
+package pl.coderslab.apierwszyprogram;
+
 public class Main03 {
     public static void main (String [] args) {
         System.out.println("Today I am starting");
